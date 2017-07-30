@@ -1,5 +1,5 @@
 {
-    "name": "bors/font-awesome",
+    "name": "bors/ionicons",
 
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
 
 	"suggest": {
-		"bower-asset/font-awesome": "Needed if you want use local asset instead CDN"
+		"bower-asset/ionicons": "Needed if you want use local asset instead CDN"
 	},
 
 	"autoload": {
